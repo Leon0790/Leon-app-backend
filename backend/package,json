@@ -13,5 +13,9 @@
     "bcryptjs": "^2.4.3",
     "jsonwebtoken": "^9.0.0",
     "axios": "^1.6.0"
+  },
+"engines": {
+    "node": "18.x"
   }
 }
+
